@@ -16,6 +16,7 @@
         "postcss": "^8.1.14"
     },
     "dependencies": {
+        "node": "^17.4.0",
         "tailwind": "^4.0.0"
     }
 }
